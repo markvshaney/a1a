@@ -1,0 +1,10 @@
+# Ignore Cursor-specific files
+.cursor/
+
+# Ignore Python files
+__pycache__/
+*.pyc
+.env
+
+# Ignore VSCode/Cursor IDE settings
+.vscode/
